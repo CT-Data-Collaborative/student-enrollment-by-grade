@@ -1,7 +1,10 @@
 Student-Enrollment-by-Grade
 
 [![Build Status](https://travis-ci.org/CT-Data-Collaborative/student-enrollment-by-grade.svg?branch=master)](https://travis-ci.org/CT-Data-Collaborative/student-enrollment-by-grade)
+
 Student Enrollment reports the number of enrolled students per year, per subgroup.
+
+Data Source: <http://edsight.ct.gov/>
 
 ## License MIT
 
